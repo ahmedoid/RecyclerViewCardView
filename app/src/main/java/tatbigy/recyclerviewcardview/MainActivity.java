@@ -47,7 +47,7 @@ public class MainActivity extends AppCompatActivity {
         return super.onOptionsItemSelected(item);
     }
 
-    // This method creates an ArrayList that has sex Countries objects
+    // This method creates an ArrayList that has six Countries objects
 // Checkout the project associated with this tutorial on Github if
 // you want to use the same images.
     private void someData() {

@@ -48,8 +48,6 @@ public class MainActivity extends AppCompatActivity {
     }
 
     // This method creates an ArrayList that has six Countries objects
-// Checkout the project associated with this tutorial on Github if
-// you want to use the same images.
     private void someData() {
         countries = new ArrayList<>();
         countries.add(new Country("السعودية", R.drawable.sa));
